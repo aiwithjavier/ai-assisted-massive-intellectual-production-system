@@ -4,6 +4,18 @@
 
 ---
 
+# Public Portfolio Review Path
+
+This case study is part of the broader **AI with Javier** public evidence ecosystem.
+
+* Portfolio: [aiwithjavier.com](https://aiwithjavier.com)
+* Projects Hub: [Review public AI projects](https://aiwithjavier.com/en/projects)
+* AI Evidence: [Review applied AI evidence](https://aiwithjavier.com/en/ai-evidence)
+* AI Evidence Navigator: [Find the right evidence for the role you are reviewing](https://aiwithjavier.com/en/ai-navigator)
+* CV / Resume: [Download CV](https://aiwithjavier.com/en/cv)
+
+---
+
 # Overview
 
 The **AI-Assisted Massive Intellectual Production System** is a public-safe case study documenting a Human + AI workflow system for large-scale intellectual production.
@@ -435,6 +447,7 @@ The project demonstrates the ability to maintain coherence, structure, authorial
 * AI-Assisted Learning Systems
 * Human + AI Collaboration
 * Large-Scale Knowledge Production
+* recruiter-oriented evidence navigation
 
 This project is part of a broader public evidence layer that also includes:
 
@@ -443,3 +456,9 @@ This project is part of a broader public evidence layer that also includes:
 3. **AI-Assisted Massive Intellectual Production System**
 
 Together, these projects demonstrate applied AI beyond isolated prompts, focusing on complete AI-assisted systems, responsible workflows, and public-safe professional evidence.
+
+Main GitHub profile: [aiwithjavier](https://github.com/aiwithjavier)
+
+Live portfolio: [aiwithjavier.com](https://aiwithjavier.com)
+
+AI Evidence Navigator: [Open interactive review guide](https://aiwithjavier.com/en/ai-navigator)
